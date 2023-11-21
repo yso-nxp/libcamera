@@ -1,0 +1,17 @@
+component_depth: 1
+languages:
+- name: "Cpp"
+- name: "Djangotemplates"
+- name: "Python"
+- name: "Script"
+
+dependencychecker:
+  blacklist:
+  - ".*nxp.*"
+
+architecture:
+  enabled: true
+  history: none
+
+thirdpartyfindings:
+  enabled: true
