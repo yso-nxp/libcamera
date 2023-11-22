@@ -6,6 +6,7 @@ languages:
 - name: "Script"
 
 dependencychecker:
+  enabled: true
   blacklist:
   - ".*nxp.*"
 
