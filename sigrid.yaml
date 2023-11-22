@@ -7,8 +7,7 @@ languages:
 
 dependencychecker:
   enabled: true
-  blacklist:
-  - ".*nxp.*"
+  blocklist: []
 
 architecture:
   enabled: true
